@@ -23,10 +23,12 @@ end
 
 def remove_element_from_start_of_array(array)
   full_array = ["a", "b", "c", "d"]
+  full_array.shift "wow"
 end
 
 def retrieve_element_from_index(array, index_number)
   full_array = ["a", "b", "c", "d"]
+  full_array {[]
 end
 
 def retrieve_first_element_from_array(array)
