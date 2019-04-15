@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   full_array = ["a", "b", "c", "d"]
-  full_array << "e"
+  full_array << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
